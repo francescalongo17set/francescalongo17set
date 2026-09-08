@@ -67,13 +67,4 @@ Machine learning pipeline for the analysis and classification of hematopoietic c
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=francescalongo17set&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francescalongo17set&layout=compact&hide_border=true" />
-</p>
-
----
-
 <p align="center"><i>Italian (native) · English (B2)</i></p>
